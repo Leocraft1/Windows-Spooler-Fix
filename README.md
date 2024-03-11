@@ -5,7 +5,7 @@ This batch script fixes your always "offline" printer in the sh1t printer spoole
 # INSTRUCTIONS
 1. Download the script
 2. Open it with the notepad or other raw text editors
-3. In line 2 change <PRINTER NAME> with your printer name (can be separated by a space), delete < and >
+3. In line 2 change < PRINTER NAME > with your printer name (can be separated by a space), delete < and >
 4. Do the same for line 3
 5. Save the batch file
 6. Launch it as an administrator (right click => run as administrator)
